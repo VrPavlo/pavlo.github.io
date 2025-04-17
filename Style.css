@@ -30,7 +30,7 @@
 .image{
 
     padding: 20px;
-    border-radius: 150px;
+    border-radius: 15px;
 
 }
 .Professionnelle {
@@ -48,11 +48,18 @@ header{
     
 
 .ContactMe {
-    background-color: rgb(116, 227, 244);
+    
+     border-top-left-radius: 20px;
+    background-color: rgb(12, 177, 202);
     margin-top: -973px;
     margin-left: 850px;
     width: 300px;
     height: 1196px;
 
 }
+.contact {
+  padding: 55px;
+}
+
+
 
