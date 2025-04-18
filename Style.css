@@ -7,7 +7,7 @@
     margin-left: 300px;
    border: 2px solid black;
     width: 1200px;
-    height: 1400px;
+    height: 1300px;
     
 }
 .head {
@@ -15,22 +15,25 @@
     justify-content: space-around;
     width: 100%;
     height: 300px;
-    background-color: rgb(115, 198, 229);
+    background-image: url(https://images.wallpaperscraft.ru/image/single/tekstura_geometriia_shestiugolniki_153850_1280x720.jpg);
 
 }
 .name {
     font-size: 50px;
     justify-content: center;
     padding-top: 10px;
-    color: white;
+    color: rgb(193, 175, 175);
     font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 105px;
 }
 
 
-.image{
-
-    padding: 20px;
-    border-radius: 15px;
+.image {
+    margin-right: 25px;
+    padding: 30px;
+    border-radius: 105px;
 
 }
 .Professionnelle {
@@ -39,7 +42,7 @@
     background-color: rgb(244, 243, 242);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 800px;
-   height: 1000px;
+   height: 900px;
 }
 
 header{
@@ -49,17 +52,54 @@ header{
 
 .ContactMe {
     
-     border-top-left-radius: 20px;
-    background-color: rgb(12, 177, 202);
-    margin-top: -973px;
-    margin-left: 850px;
-    width: 300px;
-    height: 1196px;
+    border-top-left-radius: 30px;
+    background-color: rgb(167, 206, 161);
+    margin-top: -1073px;
+    margin-left: 830px;
+    width: 320px;
+    height: 1000px;
 
 }
 .contact {
-  padding: 55px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:25px ;
 }
 
+
+.contact h2 {
+    margin-top: 105px;
+    font-size: 30px;
+
+}
+
+.contact li{
+    margin-top: 15px;
+    list-style: none;
+    padding: 0%;
+}
+
+.Langues {
+    padding: 15px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+}
+.Langues h2 {
+    margin-top: 20px;
+    font-size: 30px;
+}
+.Hobbites {
+    padding: 15px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35px;
+}
+.Hobbites h2 {
+    margin-top: 20px;
+    font-size: 30px;
+}
 
 
